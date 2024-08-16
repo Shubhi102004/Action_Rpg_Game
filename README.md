@@ -57,9 +57,6 @@ Building from the source is required:
    python spaceShooter.py
    ```
 
-## Contributing
-
-Contributions are welcome! Feel free to submit pull requests for improvements or new features.
 
 ## License
 
