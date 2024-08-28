@@ -41,6 +41,7 @@
 2. Extract the zip file.
 3. Navigate to the extracted directory.
 4. Run the following commands:
+   
    ```bash
    chmod +x spaceShooter
    ./spaceShooter
@@ -53,6 +54,7 @@ Building from the source is required:
 1. Install Pygame dependencies.
 2. Clone the repository.
 3. Run the game using:
+
    ```bash
    python spaceShooter.py
    ```
